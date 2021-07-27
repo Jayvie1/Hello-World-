@@ -1,2 +1,2 @@
 Hello-World
-Hey all, I'm @Jayvie1. I'm interested in many different areas of developing. I'm currently learning some languages, Programming, codes, developing and all the different house needs to build. Im working on a couple project now, learning as I go. Definitely want to build my own Raspberry PI. Open to learn from new ideas and suggestions, as I am new to all this. You can reach me at jayvierose48@gmail.com 
+Hey all, I'm @Jayvie1. I'm interested in many different areas of developing. I'm currently learning some languages, Programming, developing and all the different house needs to build, Definitely want to build my own Raspberry PI. You can reach me at jayvierose48@gmail.com 
